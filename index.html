@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>mkdir iot it!</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <div id="app">
+    <div class="mondrian">
+      <div class="mondrian__block" v-for="block in blocks" :data-row-span="block.rowSpan" :data-col-span="block.colSpan"
+        :data-color-index="block.colorIndex"></div>
+    </div>
+    <button class="generate-button" >mkdir iot it!</button>
+  </div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.3/vue.min.js'></script>
+  <script src="./index.js"></script>
+</body>
+
+</html>
