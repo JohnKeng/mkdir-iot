@@ -45,6 +45,7 @@
   <B> 本課程對後續學員之個人行為不負任何法律責任 </B>
 ### 教材
   ![ Proxmark3 & 變色龍](https://gd4.alicdn.com/imgextra/i1/886478325/O1CN01ooA3gK2BMtjxrYo2d_!!886478325.jpg)
+  
   [4 in 1 RFID](https://item.taobao.com/item.htm?spm=2013.1.20141003.11.55b459fc7ku7Me&scm=1007.10011.70203.100200300000001&id=574914950638&pvid=a4e8f8a9-78e3-41d8-b503-b33b724ca17a)
   [隔離板](https://item.taobao.com/item.htm?spm=a230r.1.14.36.757d3c62EZ5Quj&id=552323554016&ns=1&abbucket=1#detail)
 [RFID 13.56MHz Module](https://item.taobao.com/item.htm?spm=a230r.1.14.9.331fd3dacQ6376&id=576718597438&ns=1&abbucket=1#detail)
@@ -60,10 +61,6 @@
    透過本課程您將學連結空氣感測器及 RS485/ModBus，製作並帶回家一台專業的空氣盒子
 ![](https://www.taiwanhot.net/wp-content/uploads/2017/08/5989483b6d38b.jpg)
    
-## 五，3D Printer & 熱塑土
-   透過本課程您將學會如何繪製 3D 檔來製作產品外殼
-![](https://i.imgur.com/qWZuvQ1.png)
-![](https://img6.shop2000.com.tw//67018/self/j20150424125133.jpg)
 
 
 
